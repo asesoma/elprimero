@@ -1,0 +1,2 @@
+# elprimero
+intro curso typescript
